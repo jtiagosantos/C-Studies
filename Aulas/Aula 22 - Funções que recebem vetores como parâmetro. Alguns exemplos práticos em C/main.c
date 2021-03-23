@@ -58,7 +58,7 @@ void mostraVetor(float vetor[], unsigned tamanhoVetor) {
 
     if(tamanhoVetor == 0) {
         printf("[]\n");
-        return; //quando a função é do tipo void, podemos retornar sem coloca nada.
+        return; //quando a função é do tipo void, podemos retornar sem colocar nada.
     }
 
     printf("[");

@@ -2,7 +2,7 @@
 
 unsigned x; 
 
-//uma vavriável mantém seu valor por todo o programa, como uma variável global
+//uma variável mantém seu valor por todo o programa, como uma variável global
 
 int funcaoDeTeste() {
     //int cont = 0; -> aqui a variável sempre receberia zero quando a função fosse chamada
@@ -12,7 +12,7 @@ int funcaoDeTeste() {
 }
 
 /*
-Em uma função, a diferenção entre uma variável simples (sem static) e uma variável static é que
+Em uma função, a diferença entre uma variável simples (sem static) e uma variável static é que
 a primeira é criada e destruída em tempo de execução da função. Por outro lado, uma variável
 static é criada na função mas não é destruída, permanece na memória.
 */

@@ -17,7 +17,7 @@ int main() {
 
     //Retorna 0 caso duas strings sejam iguais
     /*Se retornar um valor menor que zero, quer dizer que a string1 vem antes
-    da strings (na ordem alfabética). Se retornar um valor maior que 0, então
+    da string2 (na ordem alfabética). Se retornar um valor maior que 0, então
     a string2 vem antes que a string2 (na ordem alfabética)*/
     if(strcmp(string1, string2) == 0) {
         printf("As duas strings sao iguais\n");

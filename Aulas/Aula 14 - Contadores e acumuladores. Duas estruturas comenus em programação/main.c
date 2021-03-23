@@ -13,7 +13,6 @@ int main() {
         }
     }
 
-
     //Acumuladores
     int soma=0, m;
     unsigned int count;

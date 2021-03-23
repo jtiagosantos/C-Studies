@@ -22,7 +22,7 @@ int main() {
     //SÓ OS VETORES SÃO PASSADOS POR REFERÊNCIA
     //REFERÊNCIA DE UMA VARIÁVEL = ENDEREÇO DELA
 
-    //Um valor que é passado por valor, não tem seu valor alterado quando ele, passado como
+    //Um valor que é passado por valor, não tem seu valor alterado quando ele é passado como
     //parâmetro, sofre alteração na função.
 
     //Um valor que é passado por referência, quando é alterado na função, tem o seu valor original alterado também.
