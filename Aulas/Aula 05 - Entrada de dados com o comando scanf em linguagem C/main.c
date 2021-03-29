@@ -7,9 +7,9 @@ int main() {
 
     printf("Entre com a nota1: ");
     scanf("%f%*c", &nota1);
-    printf("Entre com a nota1: ");
+    printf("Entre com a nota2: ");
     scanf("%f%*c", &nota2);
-    printf("Entre com a nota1: ");
+    printf("Entre com a nota3: ");
     scanf("%f%*c", &nota3);
     media = (nota1 + nota2 + nota3)/3,0;
 
