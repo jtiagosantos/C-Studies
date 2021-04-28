@@ -22,7 +22,7 @@ int binarySearch(int vector[], int sizeVector, int key) {
 int main() {
     int vector[11] = {2, 5, 7, 19, 36, 44, 76, 91, 114, 237, 499};
 
-    int pos = binarySearch(vector, 11, 91);
+    int pos = binarySearch(vector, 11, 9546451);
     printf("%d\n", pos);
     
     return 0;
